@@ -22,3 +22,9 @@ The modules offered here are:
 https://youtu.be/ZGkIFF6kCPA
 
 ### Image
+
+![image](https://github.com/Vincentaee/DePipe_Demo/blob/master/section2pipe.jpg)
+section to pipe
+
+![image](https://github.com/Vincentaee/DePipe_Demo/blob/master/forgeUpload.jpg)
+upload to forge and BIM360
