@@ -13,5 +13,5 @@ The modules offered here are:
 3. Section creating
   The sections of pipes have lots of different parameters like diameters, thickness and size(3x4,4x4...). This module use a parametric     section model to create the needed ones based on the data of projects. Then, it will be swept in modeling module.
   
-4. Uploadiing
-  Send the request to get the token to log in Forge, then choose the model to saved in the cloud storage which is connected with BIM360.
+4. Upload to BIM360
+  Create a web browser in the Winform application of project with CefSharp for logging in Forge. Send the request to get the token to log   in Forge, then choose the model to be saved in the cloud storage which is connected with BIM360.
